@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\world.h(188,1): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\world.h(740,1): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(72,18): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(73,19): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(518,25): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(322,1): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(323,1): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(324,1): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\minicraft\src\engine_minicraft.h(325,1): warning C4305: 'argument' : troncation de 'double' à 'float'
+  minicraft.vcxproj -> C:\Users\ELE6065ececc5d0e\Desktop\Synthèse d'image\yocto\Debug\minicraft.exe
